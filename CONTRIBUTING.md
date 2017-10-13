@@ -1,6 +1,7 @@
-ADD YOUR USERNAME TO THE LIST & index.html <3 Happy Hacktoberfest 2017!
+##### ADD YOUR USERNAME TO THE LIST & index.html <3 Happy Hacktoberfest 2017!
 
-karate
-petro36
-caledeito
-darkxangel84
+++ karate
+++ petro36
+++ caledeito
+++ darkxangel84
+++ ksklee
